@@ -1,6 +1,13 @@
+<h1 align="center"> Beleza na WWW </h1>
+
 <p align="center">
 <img src="https://img.shields.io/badge/release%20date-november-green" />
 </p>
+
+##💻 Sobre o projeto
+
+Este projeto foi desenvolvido com o intuito de treinar no Next utilizando diversos conceitos aplicados profissionalmente.
+
 
 ## Getting Started
 
