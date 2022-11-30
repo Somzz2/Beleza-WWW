@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/release%20date-november-green" />
 </p>
 
-##💻 Sobre o projeto
+<h2>💻 Sobre o projeto</h2>
 
 Este projeto foi desenvolvido com o intuito de treinar no Next utilizando diversos conceitos aplicados profissionalmente.
 
