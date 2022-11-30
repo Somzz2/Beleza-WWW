@@ -6,6 +6,9 @@
 
 <h2>💻 Sobre o projeto</h2>
 
+Este projeto foi desenvolvido com o intuito de treinar no Next utilizando diversos conceitos aplicados profissionalmente.
+
+
 <h2>🛠 Tecnologias</h2>
 
 * Next
@@ -13,7 +16,6 @@
 * Axios
 
 
-Este projeto foi desenvolvido com o intuito de treinar no Next utilizando diversos conceitos aplicados profissionalmente.
 
 
 ## Getting Started
