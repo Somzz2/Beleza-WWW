@@ -1,5 +1,5 @@
 <p align="center">
-https://img.shields.io/badge/release%20date-november-green
+<img src="https://img.shields.io/badge/release%20date-november-green" />
 </p>
 
 ## Getting Started
