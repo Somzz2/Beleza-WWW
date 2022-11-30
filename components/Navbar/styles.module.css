@@ -1,0 +1,25 @@
+.container {
+    background-color: #FFF;
+    height: 50px;
+    display: flex;
+    width: 1200px;
+    margin: auto;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.pass {
+    font-weight: bold;
+    color: #CCC;
+}
+
+.active {
+    color: orange;
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 100%;
+    }
+}

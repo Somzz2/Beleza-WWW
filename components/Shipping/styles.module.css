@@ -1,0 +1,28 @@
+.container {
+    width: 1200px;
+    margin: 30px 0;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    padding: 30px;
+}
+
+.totalProducts, .shipping, .discount, .total {
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+}
+
+.discount {
+    color: orange;
+    margin-bottom: 20px;
+}
+
+.total {
+    font-weight: bold;
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 90%;
+    }
+}

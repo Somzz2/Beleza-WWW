@@ -1,0 +1,39 @@
+.container {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.successfull {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color: orange;
+}
+
+.payment h1 {
+    color: #aaa;
+    width: 1200px;
+}
+
+.paymentInfo {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFF;
+    padding: 10px 30px;
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 100%;
+       
+    }
+
+    .payment {
+        width: 90%;
+    }
+}

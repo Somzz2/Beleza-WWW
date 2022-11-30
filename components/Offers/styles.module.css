@@ -1,0 +1,49 @@
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.container h1 {
+    color: #aaa;
+}
+
+.cart {
+    padding: 10px;
+    background-color: #fff;
+}
+
+.itemCart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #eee;
+    
+}
+
+.itemCart .price {
+    font-weight: bold;
+}
+
+@media (max-width: 1200px) {
+    .container {
+        width: 90%;
+    }
+
+    .cart .name {
+        font-size: 13px;
+        margin-right: 5px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .cart .name {
+        font-size: 11px;
+        
+    }
+
+    .price {
+        font-size: 13px;
+    }
+}

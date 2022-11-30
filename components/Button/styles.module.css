@@ -1,0 +1,17 @@
+.container {
+    width: 90%;
+    max-width: 300px;
+    cursor: pointer;
+    background-color: #FF6C00;
+    margin: 30px 0;
+    padding: 10px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.container:hover {
+    background-color: #D45A00;
+    transform: scale(1.1);
+    transition: all 0.5s;
+}

@@ -1,0 +1,29 @@
+.container {
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #410050, #7D0098);
+}
+
+.content {
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+.iconCart {
+    font-size: 30px;
+}
+
+@media (max-width: 1200px) {
+    .content {
+        padding: 10px;
+    }
+
+    .content h1 {
+        font-size: 25px;
+    }
+}
