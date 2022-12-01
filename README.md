@@ -23,7 +23,7 @@ Criou-se uma aplicação simulando uma compra com três etapas, onde vinha um ca
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Somzz2/Beleza-WWW/
+  git clone https://github.com/Somzz2/Beleza-WWW.git
 ```
 
 Entre no diretório do projeto
