@@ -18,15 +18,37 @@ Este projeto foi desenvolvido com o intuito de treinar no Next utilizando divers
 
 
 
-## Getting Started
 
-First, run the development server:
+## Rodando localmente
+
+Clone o projeto
 
 ```bash
-npm run dev
-# or
-yarn dev
+  git clone https://github.com/Somzz2/Beleza-WWW/
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Entre no diretório do projeto
+
+```bash
+  cd Beleza-WWW
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run dev
+```
+
+
+
+## Autores
+
+- [@Somzz2](https://github.com/Somzz2/)
+
 
